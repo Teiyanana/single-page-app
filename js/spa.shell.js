@@ -70,4 +70,4 @@ spa.shell = (function() {
   return {
     initModule: initModule
   };
-});
+}());
